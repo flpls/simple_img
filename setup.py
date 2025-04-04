@@ -11,10 +11,10 @@ setup(
     version="0.0.1",
     author="Filipe L",
     author_email="filipesluna@gmail.com",
-    description="Pacote de porcessamento de imagens.",
+    description="Pacote de processamento de imagens.",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
+    url="https://github.com/flpls/simple_img.git",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
